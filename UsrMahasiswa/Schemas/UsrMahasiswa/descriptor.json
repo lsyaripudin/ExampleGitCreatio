@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "71817a66-ec25-49cf-ab89-8f0d4f01c257",
+    "Name": "UsrMahasiswa",
+    "ModifiedOnUtc": "\/Date(1635762253000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Mahasiswa",
+    "DependsOn": []
+  }
+}

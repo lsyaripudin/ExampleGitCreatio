@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
     "Name": "Custom",
-    "ModifiedOnUtc": "\/Date(1681844907000)\/",
+    "ModifiedOnUtc": "\/Date(1762501976000)\/",
     "Maintainer": "Customer",
     "Description": "Custom Package",
     "DependsOn": [
@@ -888,6 +888,11 @@
         "UId": "f9a361ad-8965-4c55-922a-d13d1bac8c39",
         "PackageVersion": "7.8.0",
         "Name": "OmnichannelMessaging"
+      },
+      {
+        "UId": "f9e5b212-92e5-49b5-a856-3fdde3ae171c",
+        "Name": "UsrMahasiswa",
+        "Type": 1
       },
       {
         "UId": "fbf9dd14-92d2-4e35-b193-e69ced12ae44",

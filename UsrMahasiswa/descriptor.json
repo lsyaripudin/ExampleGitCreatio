@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "f9e5b212-92e5-49b5-a856-3fdde3ae171c",
+    "Name": "UsrMahasiswa",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrMahasiswa.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}

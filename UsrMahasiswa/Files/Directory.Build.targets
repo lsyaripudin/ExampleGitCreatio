@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/UsrMahasiswa/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/UsrMahasiswa/Data/**" />
+		<Compile Remove="$(PkgPath)/UsrMahasiswa/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/UsrMahasiswa/Schemas\**" />
+		<Compile Remove="$(PkgPath)/UsrMahasiswa/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrMahasiswa/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrMahasiswa/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrMahasiswa/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrMahasiswa/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/UsrMahasiswa/Resources/**" />
+		<None Remove="$(PkgPath)/UsrMahasiswa/Assemblies/**" />
+		<None Remove="$(PkgPath)/UsrMahasiswa/Data/**" />
+		<None Remove="$(PkgPath)/UsrMahasiswa/SqlScripts/**" />
+		<None Remove="$(PkgPath)/UsrMahasiswa/Schemas/**" />
+		<None Remove="$(PkgPath)/UsrMahasiswa/Resources/**" />
+  </ItemGroup>
+</Project>

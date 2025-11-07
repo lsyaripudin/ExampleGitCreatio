@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "57643cce-ab52-4a64-a2e4-10620463906a"
+= MetaData.Schema.A2 "UsrMahasiswa_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+~ MetaData.Schema.B2 ["e13a370a-1a11-471b-91ec-ccab02e6bcec","3f11bc4e-b962-4645-8695-d75604788638","c66eeb2b-5d41-480c-925f-69d9346fb22c","7b3b961b-98ab-440a-a78f-be5c0ad14fbc"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

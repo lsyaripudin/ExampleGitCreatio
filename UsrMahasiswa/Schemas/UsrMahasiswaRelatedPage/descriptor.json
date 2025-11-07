@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d620fed1-0cd1-4795-a9b4-cdd50b878038",
+    "Name": "UsrMahasiswaRelatedPage",
+    "ModifiedOnUtc": "\/Date(1762501977000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Mahasiswa (Page settings)",
+    "DependsOn": []
+  }
+}
