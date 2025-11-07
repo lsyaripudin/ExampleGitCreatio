@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7c3683cb-63cb-4d31-8294-f6076fdea19d",
+    "Name": "UsrBarangdanJasaTag",
+    "ModifiedOnUtc": "\/Date(1762500586000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Barang dan Jasa section tag",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "be044e23-1e69-4ab6-bbf0-58ccf73afcdf",
+    "Name": "UsrBarangdanJasaFolder",
+    "ModifiedOnUtc": "\/Date(1762500581000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Barang dan Jasa folder",
+    "DependsOn": []
+  }
+}
