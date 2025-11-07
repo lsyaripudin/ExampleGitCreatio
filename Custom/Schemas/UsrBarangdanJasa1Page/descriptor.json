@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "583e8a3e-1a5b-40c5-98e4-89d4ceeac494",
     "Name": "UsrBarangdanJasa1Page",
-    "ModifiedOnUtc": "\/Date(1762500573000)\/",
+    "ModifiedOnUtc": "\/Date(1762508056000)\/",
     "Parent": {
       "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
       "Name": "BaseModulePageV2"
     },
     "ManagerName": "ClientUnitSchemaManager",
-    "Caption": "Edit page: \"Barang dan Jasa\"",
-    "DependsOn": []
+    "Caption": "Edit page: \"Barang dan Jasa\""
   }
 }

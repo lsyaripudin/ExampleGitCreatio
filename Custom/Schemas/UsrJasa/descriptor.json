@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "52a3aadb-ad90-4004-a003-d190ee827e48",
+    "Name": "UsrJasa",
+    "ModifiedOnUtc": "\/Date(1762508062000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Jasa",
+    "DependsOn": []
+  }
+}

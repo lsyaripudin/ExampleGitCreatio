@@ -3,6 +3,8 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Barang dan Jasa" />
+			<Item Name="Columns.UsrBarang.Caption" Value="Barang" />
+			<Item Name="Columns.UsrJasa.Caption" Value="Jasa" />
 			<Item Name="Columns.UsrName.Caption" Value="Name" />
 			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
 		</Items>
