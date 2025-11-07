@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "184c9683-ed6c-4eab-a342-9287cb52b6a3",
+    "Name": "UsrKelasInFolder",
+    "ModifiedOnUtc": "\/Date(1762505297000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Kelas in Folder",
+    "DependsOn": []
+  }
+}

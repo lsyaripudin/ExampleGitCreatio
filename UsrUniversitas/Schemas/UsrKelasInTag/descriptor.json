@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "76629778-40d6-44c7-95ea-8fe74583e84f",
+    "Name": "UsrKelasInTag",
+    "ModifiedOnUtc": "\/Date(1762505302000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Kelas section record tag",
+    "DependsOn": []
+  }
+}

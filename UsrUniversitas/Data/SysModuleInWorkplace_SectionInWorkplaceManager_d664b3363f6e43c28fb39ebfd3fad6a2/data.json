@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d664b336-3f6e-43c2-8fb3-9ebfd3fad6a2"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "c9969eef-85a8-4d8c-87ab-5cb6dc4534a0",
+          "DisplayValue": "My applications"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "74f8a427-cd89-48e5-ab6f-b1c7d68d2ca5",
+          "DisplayValue": "Kelas"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 31
+        }
+      ]
+    }
+  ]
+}
