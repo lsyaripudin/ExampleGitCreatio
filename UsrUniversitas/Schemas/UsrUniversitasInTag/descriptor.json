@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "81044356-76d3-4282-be44-321918518d40",
+    "Name": "UsrUniversitasInTag",
+    "ModifiedOnUtc": "\/Date(1762503298000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Universitas section record tag",
+    "DependsOn": []
+  }
+}

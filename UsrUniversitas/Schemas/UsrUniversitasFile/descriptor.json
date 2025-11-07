@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "849fae6c-aa9d-4d5f-9f8e-b8f20a5451ce",
+    "Name": "UsrUniversitasFile",
+    "ModifiedOnUtc": "\/Date(1762503284000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Universitas attachment",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "73f7694b-c2f7-4746-9d6d-bad36ccd1e18",
+    "Name": "UsrUniversitas1Page",
+    "ModifiedOnUtc": "\/Date(1762503276000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Universitas\"",
+    "DependsOn": []
+  }
+}
