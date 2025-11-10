@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c987e8ab-a74c-4f11-abdd-5fc8c39c8c27",
+    "Name": "UsrPerusahaanInTag",
+    "ModifiedOnUtc": "\/Date(1762742576000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Perusahaan section record tag",
+    "DependsOn": []
+  }
+}

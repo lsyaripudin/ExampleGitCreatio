@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "28fa2719-f361-4da3-891c-fbdc5ffbd183",
+    "Name": "UsrPerusahaan1Page",
+    "ModifiedOnUtc": "\/Date(1762742542000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Perusahaan\""
+  }
+}

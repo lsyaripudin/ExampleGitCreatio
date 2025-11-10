@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "230e4155-2f89-48c0-871f-e27c6b97b544",
+    "Name": "UsrPerusahaanInFolder",
+    "ModifiedOnUtc": "\/Date(1762742566000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Perusahaan in Folder",
+    "DependsOn": []
+  }
+}
